@@ -1,0 +1,12 @@
+@media(max-width: 1420px){
+    .pinturas{
+        max-width: 900px;
+        margin: 45px 0;
+    }
+}
+
+@media(max-width: 768px){
+    .pinturas{
+        gap: 0;
+    }
+}
